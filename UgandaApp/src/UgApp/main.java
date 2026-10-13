@@ -14,7 +14,7 @@ public class main {
                 "we are giving you good food with more quality");
 
         System.out.println("===== Tax Collection=====");
-        tx.TaxCollected("Anas", 800);
+        tx.TaxCollected("bobo", 800);
         System.out.println("=====Passport Processing=====");
         pst.PassportProcess();
         System.out.println("=====National Identification Management=====");
