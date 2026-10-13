@@ -1,0 +1,3 @@
+module UgandaTax {
+    exports TaxCollection;
+}
