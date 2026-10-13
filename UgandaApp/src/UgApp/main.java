@@ -7,7 +7,7 @@ import BusinessRegistration.registration;
 public class main {
     static void main(String[] args) {
         tax tx = new tax();
-        passport pst= new passport("Ema", "12 jun 2004",
+        passport pst= new passport("Ema", "25 november 2008",
                 "Mary");
         identity id = new identity();
         registration reg = new registration("Olivier Resto",
