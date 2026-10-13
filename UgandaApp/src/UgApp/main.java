@@ -18,7 +18,7 @@ public class main {
         System.out.println("=====Passport Processing=====");
         pst.PassportProcess();
         System.out.println("=====National Identification Management=====");
-        id.IdentityInfo("P2545Bd45","John");
+        id.IdentityInfo("DS454586AE","John");
         System.out.println("=====Business Registration=====");
         reg.BusinessInfo();
     }
